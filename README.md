@@ -1,7 +1,5 @@
 # Bus-Reservation-System
 
-# Bus Reservation System
-
 ## Overview
 The **Bus Reservation System** is a console-based application that allows users to view bus schedules, reserve seats, and cancel reservations. It is designed to help bus operators manage seat bookings and reservations efficiently. This system is implemented in Java and uses basic programming concepts such as arrays, lists, and user interaction in the console.
 
